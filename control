@@ -6,4 +6,4 @@ Description: Add "Toggle Background Mode" action to Control Center, with an opti
 Maintainer: 0xkuj
 Author: 0xkuj
 Section: Tweaks
-Depends: mobilesubstrate, com.opa334.ccsupport, com.opa334.altlist
+Depends: mobilesubstrate, com.opa334.ccsupport, com.opa334.altlist, firmware (>= 17.0)
