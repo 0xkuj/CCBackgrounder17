@@ -1,0 +1,9 @@
+Package: com.0xkuj.ccbackgrounder17
+Name: CCBackgrounder17
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Add "Toggle Background Mode" action to Control Center, with an optional auto-toggle for chosen apps.
+Maintainer: 0xkuj
+Author: 0xkuj
+Section: Tweaks
+Depends: mobilesubstrate, com.opa334.ccsupport, com.opa334.altlist
